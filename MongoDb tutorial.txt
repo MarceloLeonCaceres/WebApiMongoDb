@@ -1,0 +1,20 @@
+MongoDb tutorial:
+
+CollectionName: nombreColeccion
+
+DatabaseName: dbNameProyecto
+
+connection string: mongodb+srv://marceloleonc:<password>@cluster0.q2bscxx.mongodb.net/?retryWrites=true&w=majority
+
+
+{
+"_id":{"$oid":"65c5383e2d912f5314e598ae"},
+"firstname":"",
+"lastname":"",
+"department":"",
+"class":"",
+"gender":{"$numberInt":"0"},
+"age":{"$numberInt":"0"},
+"birthday":{"$date":{"$numberLong":"-2208969960000"}},
+"graduated":false
+}

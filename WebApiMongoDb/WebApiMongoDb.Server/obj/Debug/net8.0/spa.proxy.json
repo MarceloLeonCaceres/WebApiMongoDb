@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Documentos\\Desarrollo\\Web API para React\\De  Coding Aqyanoos\\WebApiMongoDb\\WebApiMongoDb.Server\\..\\webapimongodb.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

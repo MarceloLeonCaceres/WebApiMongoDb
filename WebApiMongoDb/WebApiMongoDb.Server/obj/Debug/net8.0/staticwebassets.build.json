@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "gk6fqyCPqaSnMH6spGGC/djC572v1e4NTuDGplHTo/E=",
+  "Source": "WebApiMongoDb.Server",
+  "BasePath": "_content/WebApiMongoDb.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Documentos\\Desarrollo\\Web API para React\\De  Coding Aqyanoos\\WebApiMongoDb\\webapimongodb.client\\webapimongodb.client.esproj",
+      "Version": 2,
+      "Source": "webapimongodb.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

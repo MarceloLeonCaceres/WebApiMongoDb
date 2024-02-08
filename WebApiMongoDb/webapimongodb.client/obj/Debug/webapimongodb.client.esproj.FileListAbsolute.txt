@@ -1,0 +1,1 @@
+C:\Documentos\Desarrollo\Web API para React\De  Coding Aqyanoos\WebApiMongoDb\webapimongodb.client\obj\Debug\webapimongodb.client.esproj.CoreCompileInputs.cache
