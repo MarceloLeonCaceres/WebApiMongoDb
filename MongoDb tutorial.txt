@@ -1,4 +1,6 @@
 MongoDb tutorial:
+username = marceloleonc
+password = Devices_2
 
 CollectionName: nombreColeccion
 
